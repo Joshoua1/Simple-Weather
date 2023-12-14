@@ -19,3 +19,12 @@ A simple weather app that allows users to check the current weather in a specifi
 
 3. Enter the name of a city in the search box and press Enter to see the weather information.
 
+## API Key
+
+This app uses the OpenWeatherMap API to fetch weather data. You will need to sign up for a free API key at OpenWeatherMap and replace the placeholder API key in the script.js file:
+```bash
+const api = {
+  key: "YOUR_API_KEY",
+  base: "https://api.openweathermap.org/data/2.5/"
+};
+
