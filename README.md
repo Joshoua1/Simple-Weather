@@ -15,3 +15,7 @@ A simple weather app that allows users to check the current weather in a specifi
    ```bash
    git clone https://github.com/your-username/weather-app.git
 
+2. Open the index.html file in your web browser.
+
+3. Enter the name of a city in the search box and press Enter to see the weather information.
+
