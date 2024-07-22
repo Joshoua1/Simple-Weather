@@ -5,7 +5,7 @@ A simple weather app that allows users to check the current weather in a specifi
 1. Search: Enter the name of a city in the search box and press Enter to retrieve the current weather information.
 2. Weather Information: Display of city name, current temperature, weather condition, and a high-low temperature range.
 3. Background Image: The background image of the app changes dynamically based on the current weather condition.
-4. 
+   
 ## Getting Started
 1. Clone the repository to your local machine:
 
